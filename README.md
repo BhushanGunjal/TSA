@@ -42,4 +42,4 @@ Future work includes using LSTM models for the household dataset.
 
 
 ## Conclusion
-This project provided valuable insights into energy consumption patterns and highlighted areas for further research and model improvement.
+This project provided valuable insights into energy consumption patterns and highlighted areas for further research and model improvement. 
